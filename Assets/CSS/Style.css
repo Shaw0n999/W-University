@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    margin-left: 12px;
+    margin-right: 13px;
+    width: 50%;
+}
+.table{
+    margin-left: 15em;
+    margin-right: 6em;
+}
+
+.menu td{
+    padding: 8px;
+}
+
+.button {
+    background-color: #001bb8; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.color{
+    color:white;
+    background: #4477BB;
+}
