@@ -4,12 +4,13 @@
     margin-right: 13px;
     width: 50%;
 }
-.table{
+
+.table {
     margin-left: 15em;
     margin-right: 6em;
 }
 
-.menu td{
+.menu td {
     padding: 8px;
 }
 
@@ -23,7 +24,8 @@
     display: inline-block;
     font-size: 16px;
 }
-.color{
-    color:white;
+
+.color {
+    color: white;
     background: #4477BB;
 }
